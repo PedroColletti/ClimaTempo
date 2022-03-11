@@ -1,4 +1,4 @@
-Início, solicita permição para geolocalização.
+Início, solicita permissão para geolocalização.
 
 ![image](https://user-images.githubusercontent.com/71047937/157899387-0fc18f3c-bb6c-4562-82b1-4809b60ae598.png)
 
